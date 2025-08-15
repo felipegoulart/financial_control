@@ -15,6 +15,7 @@
     "@nuxt/icon": "2.0.0",
     "@nuxt/scripts": "0.11.10",
     "@nuxt/test-utils": "3.19.2",
+    "@nuxtjs/supabase": "1.6.0",
     "@unhead/vue": "^2.0.14",
     "eslint": "^9.33.0",
     "nuxt": "^4.0.3",
