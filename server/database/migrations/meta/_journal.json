@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1755284468365,
+      "tag": "0000_special_ultragirl",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1755285073799,
+      "tag": "0001_tan_kulan_gath",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1755285928273,
+      "tag": "0002_unique_darwin",
+      "breakpoints": true
+    }
+  ]
+}
